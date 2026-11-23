@@ -77,6 +77,39 @@
 
 <tr>
 <td width="30%" valign="top">
+<h3><a href="https://ufi-omega.vercel.app/">Update Friction Index (UFI)</a></h3>
+<sub><b>UIDAI Hackathon 2026 framework</b></sub>
+</td>
+<td valign="top">
+<p>Reframes identity update telemetry into a 5-component behavioral friction sensor uncovering socioeconomic mobility and administrative bottlenecks.</p>
+<p><code>Python</code> <code>Statistical Modeling</code> <code>Data Analytics</code> <code>UIDAI Dataset</code></p>
+</td>
+</tr>
+
+<tr>
+<td width="30%" valign="top">
+<h3><a href="https://urban-brew-ten.vercel.app/">Urban Brew Café</a></h3>
+<sub><b>animated editorial experience</b></sub>
+</td>
+<td valign="top">
+<p>Artisanal café web experience crafted with responsive navigation, filterable menus, custom design tokens, and smooth motion animations.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Framer Motion</code></p>
+</td>
+</tr>
+
+<tr>
+<td width="30%" valign="top">
+<h3><a href="https://india-connect-hub.vercel.app/">India Connect Hub</a></h3>
+<sub><b>cultural storytelling & creative hub</b></sub>
+</td>
+<td valign="top">
+<p>Editorial storytelling platform pairing heritage visual design with video showcases and scalable diaspora discovery architecture.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Editorial Typography</code></p>
+</td>
+</tr>
+
+<tr>
+<td width="30%" valign="top">
 <h3><a href="https://ai-resume-analyzer-dun-one.vercel.app/">AI Resume Analyzer</a></h3>
 <sub><b>intelligent ATS scoring</b></sub>
 </td>
@@ -88,11 +121,11 @@
 
 <tr>
 <td width="30%" valign="top">
-<h3><a href="https://github.com/Hawtspecta#pinned-items">See More Projects</a></h3>
+<h3><a href="https://github.com/Hawtspecta?tab=repositories">See More Projects</a></h3>
 <sub><b>open source & repositories</b></sub>
 </td>
 <td valign="top">
-<p>Explore more AI/ML pipelines, algorithmic experiments, and interactive creative web projects.</p>
+<p>Explore all open-source repositories, machine learning models, and interactive web experiments.</p>
 <p><code>Python</code> <code>TypeScript</code> <code>FastAPI</code> <code>Open Source</code></p>
 </td>
 </tr>
