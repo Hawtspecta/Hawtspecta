@@ -1,14 +1,14 @@
 ﻿<p align="center">
   <a href="https://github.com/Hawtspecta">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Sahana%20Nayak&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=24&descAlignY=64" width="100%" alt="Sahana Nayak, AI & ML Engineer" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:6B1416&height=240&section=header&text=Sahana%20Nayak&fontSize=74&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=22&descAlignY=68" width="100%" alt="Sahana Nayak, AI & ML Engineer" />
   </a>
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+AI+%2F+ML+Engineer+%26+Full-Stack+Builder.;%3E+Architecting+intelligent+RAG+systems+%26+LLMs.;%3E+Turning+complex+algorithms+into+seamless+products.;%3E+Curious+mind+with+endless+interests." width="100%" alt="Sahana's typing lines" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahana-santosh-nayak"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://portfolio-sahana.vercel.app"><img src="https://img.shields.io/badge/Portfolio-A21517?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="mailto:nayaksahana0307@gmail.com"><img src="https://img.shields.io/badge/Email-A21517?style=for-the-badge" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/sahana-santosh-nayak"><img src="https://img.shields.io/badge/LinkedIn-6B1416?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://portfolio-sahana.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6B1416?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="mailto:nayaksahana0307@gmail.com"><img src="https://img.shields.io/badge/Email-6B1416?style=for-the-badge" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -55,54 +55,62 @@
 
 <table>
 <tr>
-<td width="36%" valign="top">
+<td width="30%" valign="top">
 <h3><a href="https://portfolio-sahana.vercel.app">Interactive 3D Portfolio</a></h3>
 <sub><b>retro canvas & WebGL experience</b></sub>
-<br /><br />
-<a href="https://portfolio-sahana.vercel.app"><img src="https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge" alt="Try the demo" /></a>
 </td>
 <td valign="top">
 <p>Bespoke retro-themed portfolio featuring seamless canvas transitions, WebGL shaders, interactive easter eggs, and Lenis smooth scrolling.</p>
-<p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Three.js</code> <code>Tailwind CSS</code></p>
+<p>
+  <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Three.js</code> <code>Tailwind CSS</code>
+  &nbsp;&nbsp;
+  <a href="https://portfolio-sahana.vercel.app"><img src="https://img.shields.io/badge/Try_the_demo_↗-6B1416?style=flat-square" alt="Try the demo" /></a>
+</p>
 </td>
 </tr>
 
 <tr>
-<td width="36%" valign="top">
+<td width="30%" valign="top">
 <h3><a href="https://ai-law-bot-nu.vercel.app/">AI Law Bot</a></h3>
 <sub><b>citation-backed legal assistant</b></sub>
-<br /><br />
-<a href="https://ai-law-bot-nu.vercel.app/"><img src="https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge" alt="Try the demo" /></a>
 </td>
 <td valign="top">
 <p>AI-driven legal companion providing statutory RAG semantic search, contract risk evaluation, and multi-document redline comparisons.</p>
-<p><code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>Vector Search</code> <code>RAG</code></p>
+<p>
+  <code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>Vector Search</code> <code>RAG</code>
+  &nbsp;&nbsp;
+  <a href="https://ai-law-bot-nu.vercel.app/"><img src="https://img.shields.io/badge/Try_the_demo_↗-6B1416?style=flat-square" alt="Try the demo" /></a>
+</p>
 </td>
 </tr>
 
 <tr>
-<td width="36%" valign="top">
+<td width="30%" valign="top">
 <h3><a href="https://ai-resume-analyzer-dun-one.vercel.app/">AI Resume Analyzer</a></h3>
 <sub><b>intelligent ATS scoring</b></sub>
-<br /><br />
-<a href="https://ai-resume-analyzer-dun-one.vercel.app/"><img src="https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge" alt="Try the demo" /></a>
 </td>
 <td valign="top">
 <p>End-to-end PDF resume parser and Groq LLM inference pipeline delivering real-time ATS scoring and missing skill diagnostics.</p>
-<p><code>React</code> <code>FastAPI</code> <code>Groq API</code> <code>pdfplumber</code></p>
+<p>
+  <code>React</code> <code>FastAPI</code> <code>Groq API</code> <code>pdfplumber</code>
+  &nbsp;&nbsp;
+  <a href="https://ai-resume-analyzer-dun-one.vercel.app/"><img src="https://img.shields.io/badge/Try_the_demo_↗-6B1416?style=flat-square" alt="Try the demo" /></a>
+</p>
 </td>
 </tr>
 
 <tr>
-<td width="36%" valign="top">
-<h3><a href="https://urban-brew-ten.vercel.app/">Urban Brew Café</a></h3>
-<sub><b>animated editorial experience</b></sub>
-<br /><br />
-<a href="https://urban-brew-ten.vercel.app/"><img src="https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge" alt="Try the demo" /></a>
+<td width="30%" valign="top">
+<h3><a href="https://github.com/Hawtspecta?tab=repositories">See More Projects</a></h3>
+<sub><b>open source & prototypes</b></sub>
 </td>
 <td valign="top">
-<p>Artisanal café web experience crafted with responsive navigation, filterable menus, custom design tokens, and smooth motion animations.</p>
-<p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Framer Motion</code></p>
+<p>Explore more AI/ML pipelines, algorithmic experiments, and interactive creative web projects.</p>
+<p>
+  <code>Python</code> <code>TypeScript</code> <code>FastAPI</code> <code>Open Source</code>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Hawtspecta?tab=repositories"><img src="https://img.shields.io/badge/Try_the_demo_↗-6B1416?style=flat-square" alt="Try the demo" /></a>
+</p>
 </td>
 </tr>
 </table>
@@ -116,9 +124,9 @@
 <p align="center"><b>Working on something cool? I'd love to hear about it.</b></p>
 
 <p align="center">
-  <a href="mailto:nayaksahana0307@gmail.com"><img src="https://img.shields.io/badge/say_hi-A21517?style=for-the-badge" alt="Email me" /></a>
+  <a href="mailto:nayaksahana0307@gmail.com"><img src="https://img.shields.io/badge/say_hi-6B1416?style=for-the-badge" alt="Email me" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=Crafted%20with%20code%2C%20curiosity%20and%20creativity&fontSize=28&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Sign-off" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6B1416,100:0A0A0A&height=90&section=footer&text=Crafted%20with%20code%2C%20curiosity%20and%20creativity&fontSize=26&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Sign-off" />
 </p>
