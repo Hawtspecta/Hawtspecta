@@ -34,7 +34,6 @@
 <tr><td><b>2010 – 2022</b></td><td>Completed Secondary School Certificate (SSC) with <b>94.00%</b> at Dr. Sarvepalli Radhakrishnan Vidyalaya</td></tr>
 <tr><td><b>2022 – 2024</b></td><td>Higher Secondary Certificate (HSC) in Computer Science with <b>92.33%</b> at Patkar-Varde College</td></tr>
 <tr><td><b>2024 – 2028</b></td><td>B.Tech in AI & ML with FinTech Minor at Dwarkadas J. Sanghvi College of Engineering (<b>9.5 Current CGPA</b>)</td></tr>
-<tr><td><b>2026</b></td><td>AI/ML Intern at InVizn · Finalist at JPMorgan Chase Code For Good 2026 · 3rd Place at CodeQuest</td></tr>
 </table>
 </details>
 
@@ -89,7 +88,7 @@
 
 <tr>
 <td width="30%" valign="top">
-<h3><a href="https://github.com/Hawtspecta">See More Projects</a></h3>
+<h3><a href="https://github.com/Hawtspecta#pinned-items">See More Projects</a></h3>
 <sub><b>open source & repositories</b></sub>
 </td>
 <td valign="top">
