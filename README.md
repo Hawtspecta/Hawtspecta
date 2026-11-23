@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahana-santosh-nayak"><img src="https://img.shields.io/badge/LinkedIn-6B1416?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://portfolio-sahana.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6B1416?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sahana-s-nayak/"><img src="https://img.shields.io/badge/LinkedIn-6B1416?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://portfolio-sahana-nine.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6B1416?style=for-the-badge" alt="Portfolio" /></a>
   <a href="mailto:nayaksahana0307@gmail.com"><img src="https://img.shields.io/badge/Email-6B1416?style=for-the-badge" alt="Email" /></a>
 </p>
 
@@ -56,16 +56,12 @@
 <table>
 <tr>
 <td width="30%" valign="top">
-<h3><a href="https://portfolio-sahana.vercel.app">Interactive 3D Portfolio</a></h3>
+<h3><a href="https://portfolio-sahana-nine.vercel.app">Interactive 3D Portfolio</a></h3>
 <sub><b>retro canvas & WebGL experience</b></sub>
 </td>
 <td valign="top">
 <p>Bespoke retro-themed portfolio featuring seamless canvas transitions, WebGL shaders, interactive easter eggs, and Lenis smooth scrolling.</p>
-<p>
-  <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Three.js</code> <code>Tailwind CSS</code>
-  &nbsp;&nbsp;
-  <a href="https://portfolio-sahana.vercel.app"><img src="https://img.shields.io/badge/Try_the_demo_↗-6B1416?style=flat-square" alt="Try the demo" /></a>
-</p>
+<p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Three.js</code> <code>Tailwind CSS</code></p>
 </td>
 </tr>
 
@@ -76,11 +72,7 @@
 </td>
 <td valign="top">
 <p>AI-driven legal companion providing statutory RAG semantic search, contract risk evaluation, and multi-document redline comparisons.</p>
-<p>
-  <code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>Vector Search</code> <code>RAG</code>
-  &nbsp;&nbsp;
-  <a href="https://ai-law-bot-nu.vercel.app/"><img src="https://img.shields.io/badge/Try_the_demo_↗-6B1416?style=flat-square" alt="Try the demo" /></a>
-</p>
+<p><code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>Vector Search</code> <code>RAG</code></p>
 </td>
 </tr>
 
@@ -91,26 +83,18 @@
 </td>
 <td valign="top">
 <p>End-to-end PDF resume parser and Groq LLM inference pipeline delivering real-time ATS scoring and missing skill diagnostics.</p>
-<p>
-  <code>React</code> <code>FastAPI</code> <code>Groq API</code> <code>pdfplumber</code>
-  &nbsp;&nbsp;
-  <a href="https://ai-resume-analyzer-dun-one.vercel.app/"><img src="https://img.shields.io/badge/Try_the_demo_↗-6B1416?style=flat-square" alt="Try the demo" /></a>
-</p>
+<p><code>React</code> <code>FastAPI</code> <code>Groq API</code> <code>pdfplumber</code></p>
 </td>
 </tr>
 
 <tr>
 <td width="30%" valign="top">
-<h3><a href="https://github.com/Hawtspecta?tab=repositories">See More Projects</a></h3>
-<sub><b>open source & prototypes</b></sub>
+<h3><a href="https://github.com/Hawtspecta">See More Projects</a></h3>
+<sub><b>open source & repositories</b></sub>
 </td>
 <td valign="top">
 <p>Explore more AI/ML pipelines, algorithmic experiments, and interactive creative web projects.</p>
-<p>
-  <code>Python</code> <code>TypeScript</code> <code>FastAPI</code> <code>Open Source</code>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Hawtspecta?tab=repositories"><img src="https://img.shields.io/badge/Try_the_demo_↗-6B1416?style=flat-square" alt="Try the demo" /></a>
-</p>
+<p><code>Python</code> <code>TypeScript</code> <code>FastAPI</code> <code>Open Source</code></p>
 </td>
 </tr>
 </table>
