@@ -1,6 +1,6 @@
 ﻿<p align="center">
   <a href="https://github.com/Hawtspecta">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Sahana%20Nayak&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=AI%20%26%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=24&descAlignY=64" width="100%" alt="Sahana Nayak, AI & ML Engineer" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Sahana%20Nayak&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=24&descAlignY=64" width="100%" alt="Sahana Nayak, AI & ML Engineer" />
   </a>
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+AI+%2F+ML+Engineer+%26+Full-Stack+Builder.;%3E+Architecting+intelligent+RAG+systems+%26+LLMs.;%3E+Turning+complex+algorithms+into+seamless+products.;%3E+Curious+mind+with+endless+interests." width="100%" alt="Sahana's typing lines" />
 </p>
@@ -17,26 +17,18 @@
   <img src="https://img.shields.io/badge/Ex--Intern-AI%2FML_@_InVizn-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="AI/ML Intern InVizn" />
 </p>
 
-## 🧬 about
+## about
 
-<img align="right" src="Sahana.jpeg" width="210" style="border-radius: 18px; margin-left: 20px; margin-bottom: 20px;" alt="Sahana Nayak" />
-
-```python
-me = {
-    "does": "building production AI/ML architectures & expressive web applications",
-    "based": "Mumbai, India",
-    "was": "AI/ML Intern @ InVizn",
-    "degree": "B.Tech in Artificial Intelligence & Machine Learning, DJSCE",
-    "learning": "Multimodal Agentic Workflows, Distributed RAG & WebGL",
-    "speaks": ["English", "Hindi", "Marathi", "Konkani", "Python"],
-    "pronouns": "she/her",
-}
-```
-
-<div style="clear: both;"></div>
+- **What I Do:** Engineering production AI/ML architectures, agentic systems, and expressive web applications
+- **Based In:** Mumbai, India
+- **Experience:** Ex-AI/ML Intern @ InVizn · Freelance Web Developer
+- **Education:** B.Tech in Artificial Intelligence & Machine Learning, DJSCE (**9.5 Current CGPA**) · Minor in FinTech
+- **Currently Exploring:** Multimodal Agentic Workflows, Distributed RAG & WebGL
+- **Languages:** English, Hindi, Marathi, Konkani
+- **Pronouns:** she/her
 
 <details>
-<summary><b>🌱 how I got here. click for the short version</b></summary>
+<summary><b>how I got here. click for the short version</b></summary>
 <br />
 <table>
 <tr><td><b>2010 – 2022</b></td><td>Completed Secondary School Certificate (SSC) with <b>94.00%</b> at Dr. Sarvepalli Radhakrishnan Vidyalaya</td></tr>
@@ -46,7 +38,7 @@ me = {
 </table>
 </details>
 
-## 💼 experience
+## experience
 
 <table>
 <tr>
@@ -59,43 +51,63 @@ me = {
 </tr>
 </table>
 
-## 🚀 projects
+## projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3>⚖️ <a href="https://ai-law-bot-nu.vercel.app/">AI Law Bot</a></h3>
-<sub><b>citation-backed legal assistant · live demo</b></sub>
-<p>AI-driven legal companion providing statutory RAG semantic search, contract risk evaluation, and multi-document redline comparisons.</p>
-<p><code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>Vector Search</code> <code>RAG</code></p>
-<a href="https://ai-law-bot-nu.vercel.app/"><img src="https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge" alt="Try the demo" /></a>
+<td width="36%" valign="top">
+<h3><a href="https://portfolio-sahana.vercel.app">Interactive 3D Portfolio</a></h3>
+<sub><b>retro canvas & WebGL experience</b></sub>
+<br /><br />
+<a href="https://portfolio-sahana.vercel.app"><img src="https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge" alt="Try the demo" /></a>
 </td>
-<td width="50%" valign="top">
-<h3>📊 <a href="https://ufi-omega.vercel.app/">Aadhaar Update Friction Index (UFI)</a></h3>
-<sub><b>UIDAI Hackathon 2026 · live demo</b></sub>
-<p>Reframes identity update telemetry into a 5-component behavioral friction sensor uncovering socioeconomic mobility and administrative bottlenecks.</p>
-<p><code>Python</code> <code>Statistical Modeling</code> <code>Data Analytics</code></p>
-<a href="https://ufi-omega.vercel.app/"><img src="https://img.shields.io/badge/view_project-A21517?style=for-the-badge" alt="View project" /></a>
+<td valign="top">
+<p>Bespoke retro-themed portfolio featuring seamless canvas transitions, WebGL shaders, interactive easter eggs, and Lenis smooth scrolling.</p>
+<p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Three.js</code> <code>Tailwind CSS</code></p>
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
-<h3>📄 <a href="https://ai-resume-analyzer-dun-one.vercel.app/">AI Resume Analyzer</a></h3>
-<sub><b>intelligent ATS scoring · live demo</b></sub>
-<p>End-to-end PDF resume parser and Groq LLM inference pipeline delivering real-time ATS scoring and missing skill diagnostics.</p>
-<p><code>React</code> <code>FastAPI</code> <code>Groq API</code> <code>pdfplumber</code></p>
+<td width="36%" valign="top">
+<h3><a href="https://ai-law-bot-nu.vercel.app/">AI Law Bot</a></h3>
+<sub><b>citation-backed legal assistant</b></sub>
+<br /><br />
+<a href="https://ai-law-bot-nu.vercel.app/"><img src="https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge" alt="Try the demo" /></a>
+</td>
+<td valign="top">
+<p>AI-driven legal companion providing statutory RAG semantic search, contract risk evaluation, and multi-document redline comparisons.</p>
+<p><code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>Vector Search</code> <code>RAG</code></p>
+</td>
+</tr>
+
+<tr>
+<td width="36%" valign="top">
+<h3><a href="https://ai-resume-analyzer-dun-one.vercel.app/">AI Resume Analyzer</a></h3>
+<sub><b>intelligent ATS scoring</b></sub>
+<br /><br />
 <a href="https://ai-resume-analyzer-dun-one.vercel.app/"><img src="https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge" alt="Try the demo" /></a>
 </td>
-<td width="50%" valign="top">
-<h3>📂 <a href="https://github.com/Hawtspecta?tab=repositories">More Work</a></h3>
-<sub><b>everything else</b></sub>
-<p>Explore more AI/ML architectures, algorithmic experiments, and interactive creative web projects.</p>
-<a href="https://github.com/Hawtspecta?tab=repositories"><img src="https://img.shields.io/badge/view_github-A21517?style=for-the-badge" alt="View GitHub" /></a>
+<td valign="top">
+<p>End-to-end PDF resume parser and Groq LLM inference pipeline delivering real-time ATS scoring and missing skill diagnostics.</p>
+<p><code>React</code> <code>FastAPI</code> <code>Groq API</code> <code>pdfplumber</code></p>
+</td>
+</tr>
+
+<tr>
+<td width="36%" valign="top">
+<h3><a href="https://urban-brew-ten.vercel.app/">Urban Brew Café</a></h3>
+<sub><b>animated editorial experience</b></sub>
+<br /><br />
+<a href="https://urban-brew-ten.vercel.app/"><img src="https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge" alt="Try the demo" /></a>
+</td>
+<td valign="top">
+<p>Artisanal café web experience crafted with responsive navigation, filterable menus, custom design tokens, and smooth motion animations.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Framer Motion</code></p>
 </td>
 </tr>
 </table>
 
-## 🧰 stack
+## stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,fastapi,postgres,docker,threejs,tailwind,git,github,vscode,figma&perline=14&theme=dark" alt="Tech stack" />
@@ -108,5 +120,5 @@ me = {
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=Crafted%20with%20code%2C%20curiosity%20%26%20creativity&fontSize=28&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Sign-off" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=Crafted%20with%20code%2C%20curiosity%20and%20creativity&fontSize=28&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Sign-off" />
 </p>
